@@ -5,7 +5,7 @@ Yes, I'm Jallander.
 #### Working 📡💻🌐
 
 - 🌐 I’m currently working on [Cultura Matemática](https://cultura-matematica.galidea.es)
-- 🌐 and working on [Vibus](https://vibus.galidea.es)
+- 🌐 and working on [Vibus - Vigo en bus](https://vibus.galidea.es)
 - 🌐 and currently working on [My fiddles](https://jsfiddle.net/user/jallander/fiddles/)
 
 #### Social networks
