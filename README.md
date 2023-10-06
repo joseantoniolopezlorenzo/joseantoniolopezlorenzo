@@ -8,7 +8,7 @@ Yes, I'm Jallander.
 - 🌐 and working on [Vibus - Vigo en bus](https://vibus.galidea.es)
 - 🌐 and currently working on [My fiddles](https://jsfiddle.net/user/jallander/fiddles/)
 
-#### Edition
+#### Editing
 
 - [Werner Heisenberg - Diálogos de física atómica](https://github.com/joseantoniolopezlorenzo/dialogos-sobre-fisica-atomica)
 - [Manuel García Morente - Lecciones preliminares de filosofía](https://github.com/joseantoniolopezlorenzo/lecciones-preliminares-de-filosofia)
