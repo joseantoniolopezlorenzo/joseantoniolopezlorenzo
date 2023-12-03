@@ -16,8 +16,8 @@ Yes, I'm Jallander.
   
 #### Social networks
 
--  Twitter [Profile](https://twitter.com/JallProfesor)
--  Linkedin [Profile](https://www.linkedin.com/in/jos%C3%A9-antonio-l%C3%B3pez-lorenzo/)
+- Mastodom [Profile](https://mastodon.social/@jalander)
+- Linkedin [Profile](https://www.linkedin.com/in/jos%C3%A9-antonio-l%C3%B3pez-lorenzo/)
 
 <!--
 **joseantoniolopezlorenzo/joseantoniolopezlorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
