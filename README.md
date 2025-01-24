@@ -6,7 +6,7 @@ Yes, I'm Jallander.
 
 - 🌐 I’m currently working on [Cultura Matemática](http://cultu-matematica.byethost7.com/index.html)
 - 🌐 and working on Vigobus - Vigo en bus.
-- 🌐 and currently working on [My fiddles](https://jsfiddle.net/user/jallander/fiddles/)
+- 🌐 and currently working on [My fiddles](https://jsfiddle.net/user/fiddles/jallander)
 - 🌐 and Geogebra [Profile](https://www.geogebra.org/u/jalprofesorparticular)
 -  
 #### Editing
